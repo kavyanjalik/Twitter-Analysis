@@ -24,7 +24,7 @@ install.packages(c(
 Set the working directory: Modify the script to point to your working directory where the data files are located:
 setwd("/path/to/your/directory")
 
-**Usage**
+**USAGE**
 
 Ensure that your Twitter dataset (in CSV format) is correctly formatted with columns such as author.username, text, retweet_count, and created_at.
 
@@ -41,7 +41,7 @@ Modify parameters as needed: Adjust the script to your specific needs, such as f
 
 View outputs: The script will save visualizations like retweet networks, hashtag analysis graphs, and sentiment distribution plots in the working directory.
 
-**Contributing**
+**CONTRIBUTIONS**
 
 Contributions are welcome! Please follow these steps:
 
